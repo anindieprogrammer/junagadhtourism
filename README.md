@@ -20,7 +20,7 @@ This is a concept website for Junagadh Tourism.
 
 ### Links
 
-- Live Site URL: [Netlify](https://playful-marigold-47e457.netlify.app)
+- Live Site URL: [Netlify](https://junagadhtourism.netlify.app/)
 
 ## My process
 
